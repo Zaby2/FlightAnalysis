@@ -8,7 +8,7 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
-public class Tickets {
+public class Ticket {
     private String origin;
     private String origin_name;
     private String destination;
